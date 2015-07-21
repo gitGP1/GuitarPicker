@@ -1,2 +1,0 @@
-# GuitarPicker
-GuitarPicker
