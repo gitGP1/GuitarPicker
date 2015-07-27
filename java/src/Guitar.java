@@ -103,7 +103,7 @@ public class Guitar extends Time {
 		
 		//schecter_omen_6.addGuitar();
 		//schecter_omen_6.displayGuitar();
-
+		//TODO displaying all guitars
 
 		
 	}
